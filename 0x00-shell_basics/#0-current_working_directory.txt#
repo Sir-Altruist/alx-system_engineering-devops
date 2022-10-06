@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Enter filename"
+realpath filename
